@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SlidingRootSample</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">$</string>
+    <string name="balance_amount">524.99</string>
+    <string name="one">Dashboard</string>
+    <string name="two">My Account</string>
+    <string name="tree">Messages</string>
+    <string name="four">Cart</string>
+</resources>
